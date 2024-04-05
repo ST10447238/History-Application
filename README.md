@@ -4,7 +4,7 @@
 ![image](https://github.com/ST10447238/History-Application/assets/160851446/93f1634b-7365-4ba2-b4d5-009665c61a11)
 
 # Purpose of the app
-The History application in schools serves several essential purposes in enhancing historical education for students. It provides a complete and engaging platform for learning about various historical events, periods, figuresand a deeper understanding of the past.(OpenAI,2024)
+The History application in schools serves several essential purposes in enhancing historical education for students. It provides a complete and engaging platform for learning about various historical events, periods, figuresand a deeper understanding of the past.
 
 Firstly, the application offers a wealth of historical news and articles, keeping students informed on the latest discoveries, archaeological findings, and museum exhibitions. This feature encourages students to analyze current reality and recognize areas for improvement in society.
 
@@ -30,11 +30,14 @@ Then in this part it is where I started to use my if statement which for you to 
 ![image](https://github.com/ST10447238/History-Application/assets/160851446/b14a0d9d-2436-4205-98ae-8a854645dfe2)
 The txtDisplay is the one that will reveal the information. This is where i introduced my clear button that is reasonable to clear the age that has been entered by the learner  and also it clears all the information that has been displayed , so using the clear button you can enter the first age then clear it and enter the second one without them following each other , same goes as the display because once you clear the age that has been entered then the display also is cleared at the very same time.(OpenAI,2024) 
 # utilisation of the github
+I used my github app to store my code repoitories.
 # conclusion
 In summary, the History application in schools is a valuable resource for enhancing historical education. Its engaging content, practical features, and user-friendly design create an immersive learning experience that promotes critical thinking, cultural sensitivity, and a deeper understanding of the past. By using the application, students can develop a well-rounded understanding of historical events and their impact on the present, making them better informed and engaged citizens.
 
 #Refrence
 IIE,2024.Introduction to mobile application development.IMAD5112
-OpenAi.(2024).ChatGPT(Jan 2022 version).https://openai.com/
+OpenAi.(2024).ChatGPT(Jan 2022 version).https://openai.com
+Dalton,G.(2023).Steve Biko's artwork.www.dalton-arts.com-
 
 #YouTube Video
+https://youtu.be/ySH9aX89cMw?si=FvoqMUlYkEIy-s4W
