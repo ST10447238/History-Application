@@ -3,9 +3,8 @@
 ![image](https://github.com/ST10447238/History-Application/assets/160851446/d2d3146f-ad9b-4992-b321-ab4c43e058b3)
 ![image](https://github.com/ST10447238/History-Application/assets/160851446/93f1634b-7365-4ba2-b4d5-009665c61a11)
 
-
 # Purpose of the app
-TThe History application in schools serves several essential purposes in enhancing historical education for students. It provides a complete and engaging platform for learning about various historical events, periods, figuresand a deeper understanding of the past.(OpenAI,2024)
+The History application in schools serves several essential purposes in enhancing historical education for students. It provides a complete and engaging platform for learning about various historical events, periods, figuresand a deeper understanding of the past.(OpenAI,2024)
 
 Firstly, the application offers a wealth of historical news and articles, keeping students informed on the latest discoveries, archaeological findings, and museum exhibitions. This feature encourages students to analyze current reality and recognize areas for improvement in society.
 
@@ -37,3 +36,5 @@ In summary, the History application in schools is a valuable resource for enhanc
 #Refrence
 IIE,2024.Introduction to mobile application development.IMAD5112
 OpenAi.(2024).ChatGPT(Jan 2022 version).https://openai.com/
+
+#YouTube Video
